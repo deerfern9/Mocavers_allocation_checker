@@ -5,15 +5,15 @@ Description and requirements
 
 Required Python version: 3.11+
 
-1. Write data to files:
+1. Save data to files:
 
-   Write your private keys to privates.txt.
-   
-   Write your proxies to proxies.txt in the following format: http://username:password@ip:port
+    Private keys → privates.txt
+
+    Proxies → proxies.txt (format: http://username:password@ip:port)
 
 2. Setting requirements:
 
-   Open cmd and paste the following text
+   Open cmd and paste
    
    ```
    cd path/to/projroject (e.g. cd C:\Users\Administrator\Desktop\Mocavers_allocation_checker)
@@ -42,4 +42,4 @@ Required Python version: 3.11+
 
 5. Results
 
-   The results will be written to data/results.txt
+   Results saved to: data/results.txt
